@@ -136,9 +136,6 @@ scenario:
     # =========================================================================
     # DEPLOYMENT METHOD -- Choose standalone or modelservice
     # =========================================================================
-    gateway:
-      className: agentgateway
-
     modelservice:
       enabled: true
 
